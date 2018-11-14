@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveTowards2D : MonoBehaviour {
+public class MoveTowardsChosenTarget2D : MonoBehaviour {
     private Vector2 target;
     private float maxDistanceDelta;
 
