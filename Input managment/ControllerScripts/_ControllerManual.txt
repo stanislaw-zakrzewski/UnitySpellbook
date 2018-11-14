@@ -1,0 +1,10 @@
+Usage:
+See ControllerUsageExample
+
+Adding new input:
+1) Add method to interface IController.
+2) Impplement method in all classes that implements IController.
+
+Adding new controller:
+1) Create new class that implements IController.
+2) Add class name to ControllerEnum.
